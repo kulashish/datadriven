@@ -1,0 +1,42 @@
+---
+title: "Results DG"
+output: html_document
+---
+
+This document presents results of running the recurring transactions model on the raw transactions in "Export Data - DG". The raw data consisted of transactions from 2007 through 2015. Since the model is required to run only over 90-day transaction history, the raw data was filtered to include only transactions between 11/14 - 02/15.
+
+```{r, include=FALSE}
+source('app_util.R')
+library(rpart)
+library(RWeka)
+library(pander)
+library(knitr)
+
+m <- build_model()
+```
+
+### Checking Data
+
+```{r, echo=FALSE}
+data.raw <- load_data('C:/Users/akulkarni/Documents/Yodlee/Data driven app/DG/Export Data - DG.csv')
+```
+A summary of the transactions is shown below - 
+```{r, results='asis', echo=FALSE}
+pandoc.table(head(data.raw[, -5]), split.table=Inf)
+```
+
+```{r, echo=FALSE}
+data.sim.df <- filter_similar(data.raw)
+data.test   <- trans_predict(m, data.sim.df)
+row.names(data.test) <- NULL
+```
+
+The model first filters in potentially similar transactions based on their description. It then runs a rules-based binary classifier to label these transactions as 'Valid' (recurring) or 'Invalid' (non-recurring) transactions.
+```{r, results='asis', echo=FALSE}
+pandoc.table(data.test[, 2:11], split.table=Inf)
+```
+The final list of recurring transactions -
+```{r, results='asis', echo=FALSE}
+data.result <- build_result(data.raw, data.test)
+pandoc.table(data.result, split.table = Inf)
+```

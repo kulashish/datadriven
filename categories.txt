@@ -1,0 +1,59 @@
+category,discretionary
+Dues and Subscriptions,0
+Printing,1
+Taxes,0
+Home Maintenance,1
+Savings,0
+Healthcare/Medical,1
+Service Charges/Fees,0
+ATM/Cash Withdrawals,1
+Gasoline/Fuel,1
+General Merchandise,1
+Transfers,0
+Investment Income,0
+Business Miscellaneous,0
+Entertainment,1
+Utilities,0
+Telephone Services,0
+Hobbies,1
+Child/Dependent Expenses,0
+Electronics,1
+Travel,1
+Online Services,1
+Personal Care,1
+Gifts,1
+Checks,0
+Automotive Expenses,0
+Charitable Giving,0
+Rent,0
+Services,0
+Interest,0
+Consulting,0
+Paychecks/Salary,0
+Credit Card Payments,0
+Restaurants/Dining,1
+Insurance,0
+Retirement Contributions,0
+Jewellery,1
+Office Maintenance,0
+Securities Trades,0
+Uncategorized,0
+Other Income,0
+Sales,1
+Groceries,1
+Office Supplies,1
+Education,0
+Wages Paid,0
+Retirement Income,0
+Loans,0
+Other Expenses,1
+Mortgages,0
+Cable/Satellite Services,0
+Clothing/Shoes,1
+Advertising,1
+Expense Reimbursement,0
+Deposits,0
+Home Improvement,1
+Other Bills,0
+Pets/Pet Care,1
+Postage and Shipping,1

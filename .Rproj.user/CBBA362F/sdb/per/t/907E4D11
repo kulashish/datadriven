@@ -1,0 +1,17 @@
+{
+    "contents" : "source('../global/redshift_conn.R')\nsource('app_util.R')\nlibrary(rpart)\nlibrary(RWeka)\n\ncats  <<- read.csv('categories.txt', header=T)\ncats.disc <<- cats[cats$discretionary==1, 'category']\npatterns <<- read.csv('subscription.txt', header=F)\n#trans <- YodleeInsightsConnector.query(conn, query.rand)\ntrans <- YodleeInsightsConnector.query(conn, query.fix)\ntrans[, 1]  <- as.character(trans[, 1])\ntrans[, 2]  <- as.character(trans[, 2])\ndata.sim_df <- do.call(\"rbind\", lapply(split(trans, trans$mem_id), find_similar))\nprocess_write(data.sim_df, 'trans_features.csv')\n\n#--------Train a PART model -------------------\ndata  <- read.csv('app_train1.csv', header=T)\ndata[is.na(data)]   <- 0\n#model.dt  <- rpart(label ~ date_diff+date_var+amt+cat+discret+sub, data=data, method='class', control = rpart.control(cp = 0, xval=2))\nm <- PART(label ~ date_diff+date_var+amt+cat+discret+sub, data=data)\nprint(m)\n#plot(model.dt)\n#text(model.dt)\npred <- trans_predict(m, data)\n\n#--------Computation of Accuracy measures----------------------\nTP <- pred[(pred$label=='Valid') & (pred$pred=='Valid'), ]\nTN <- pred[(pred$label=='Invalid') & (pred$pred=='Invalid'), ]\nFP <- pred[(pred$label=='Invalid') & (pred$pred=='Valid'), ]\nFN <- pred[(pred$label=='Valid') & (pred$pred=='Invalid'), ]\nRecall <- nrow(TP) / (nrow(TP)+nrow(FN))\nPrecision <- nrow(TP) / (nrow(TP)+nrow(FP))\nF1 <- 2 * Recall * Precision / (Recall + Precision)\n\n#--------Inference-----------------------------\ninstances.test <- YodleeInsightsConnector.query(conn, query.rand)\ninstances.test[, 1] <- as.character(instances.test[, 1])\ndata.sim_df <- do.call(\"rbind\", lapply(split(instances.test, instances.test$mem_id), find_similar))\ndata.sim_df[is.na(data.sim_df)] <- 0\ndata.sim_df[, 'date_diff'] <- gsub(\" weeks\", \"\", data.sim_df[, 'date_diff'])\n#data.test <- cbind(data.sim_df, pred=trans_predict(m, data.sim_df))\ndata.test <- trans_predict(m, data.sim_df)\nprocess_write(data.test, 'test.csv')",
+    "created" : 1429175782056.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3434932047",
+    "id" : "907E4D11",
+    "lastKnownWriteTime" : 1436343478,
+    "path" : "C:/Users/akulkarni/RWorkspace/DataDrivenApp/app_gen_train.R",
+    "project_path" : "app_gen_train.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

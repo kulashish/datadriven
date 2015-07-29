@@ -1,0 +1,196 @@
+mem,desc,date_diff,date_var,amt,cat,discret,sub,label
+"1000164415352201","creditforteascomptrollrtrsannuitycoref",4.29,0.14,0,"Taxes",FALSE,FALSE,1
+"1000164415352201","cityofaustintpaymentcoref",4.29,0.27,24.68,"Credit Card Payments",TRUE,FALSE,0
+"1000164415352201","teaspublicempbankdraftcorefid",4.38,0.09,0,"Checks",FALSE,FALSE,1
+"1000164415352201","checkcleared",2.48,2.9,331.01,"Checks",FALSE,FALSE,0
+"1000164415352201","onegasteasprutilpaymtcoref",4.57,0.16,0.05,"Utilities",FALSE,FALSE,1
+"1000164415352201","creditforssatreassocseccorefassa",4.5,0.5,0,"Deposits",FALSE,FALSE,1
+"1000164415352201","interestcredit",1.33,1.12,6.19,"Interest",FALSE,FALSE,0
+"1000164415352201","iodinterestpaid",4.36,0.01,0,"Interest",FALSE,FALSE,1
+"1000564012973460","usaafundstransferdb",4.33,0.05,0,"Transfers",FALSE,FALSE,1
+"1000564012973460","dfasclevelandcrscpay",4.21,0.01,0,"Retirement Income",FALSE,FALSE,1
+"1000564013171293","gapvisagapepay",4.33,0.19,3.63,"Clothing/Shoes",TRUE,FALSE,0
+"1000564013171293","aplitunescomca",1.43,0.65,2.19,"Entertainment",TRUE,FALSE,0
+"1000564013171293","walmartwarrensburgmo",1.21,2.37,180.14,"General Merchandise",TRUE,FALSE,0
+"1000564013171293","wendysofmissowarrensburgmo",0.29,NA,16.03,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013171293","attpaymentpayw",4.33,0.01,4.87,"Telephone Services",FALSE,FALSE,0
+"1000564013171293","aafeswhitemanwhitemanafbmo",1.33,0.62,1.43,"General Merchandise",TRUE,FALSE,0
+"1000564013171293","dairyqueenwarrensburgmo",3.36,6.38,3.34,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013171293","targetdebitcrdachtran",1.29,NA,17.92,"General Merchandise",TRUE,FALSE,0
+"1000564013171293","wmsupercwalmartsupmyrtlebeachsc",0.14,NA,100.36,"General Merchandise",TRUE,FALSE,0
+"1000564013171293","aldiwarrensburgmo",2.11,0.78,9.84,"Groceries",TRUE,FALSE,0
+"1000564013171293","walmartsupercenterwarrensburgmo",4.5,4.5,39.68,"General Merchandise",TRUE,FALSE,0
+"1000564013171293","redbodvdrenoakbrookteril",9.86,NA,0,"Entertainment",TRUE,FALSE,0
+"1000564013171293","netflicomnetflicomca",4.36,0.09,0,"Entertainment",TRUE,TRUE,1
+"1000564013171293","redbodvdrenil",5.71,NA,6.28,"Entertainment",TRUE,FALSE,0
+"1000564013171293","directvpayment",4.36,0.09,0.25,"Cable/Satellite Services",FALSE,FALSE,0
+"1000564013171293","ikeamerriamremerriamks",0,0,1.88,"Home Improvement",TRUE,FALSE,0
+"1000564013171293","littlecaesarsoverlandparkks",1.76,1.35,7.3,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013171293","wmsupercwalmartsupwarrensburgmo",1.52,4.21,61.63,"General Merchandise",TRUE,FALSE,0
+"1000564013171293","usaafundstransferdb",0.46,0.26,104.54,"Transfers",FALSE,FALSE,0
+"1000564013171293","usaafundstransfercr",0.37,0.22,201.88,"Transfers",FALSE,FALSE,0
+"1000564013171293","woodssupermarkwarrensburgmo",1.48,0.64,15.13,"General Merchandise",TRUE,FALSE,0
+"1000564013171293","bbbirchboinny",4.33,0.05,0,"Personal Care",TRUE,FALSE,1
+"1000564013171293","sqttnailswarrensburgmo",9,NA,15.15,"Personal Care",TRUE,FALSE,0
+"1000564013171293","whitemanvandenbewhitemanafbmo",6.36,6.38,32.38,"Uncategorized",FALSE,FALSE,0
+"1000564013171293","bodyworksdaysedaliamo",2,NA,34.06,"Personal Care",TRUE,FALSE,0
+"1000564013171293","atmsurchargerebatesr",4.29,0.06,3.43,"ATM/Cash Withdrawals",TRUE,FALSE,0
+"1000564013171293","wfhomemtgautopay",4.29,0.14,0,"Mortgages",FALSE,FALSE,1
+"1000564013171293","whitemancommiswhitemanafbmo",0.92,0.89,5.33,"Groceries",TRUE,FALSE,0
+"1000564013171293","whitemanarnoldawhitemanafbmo",5.93,22.54,38.68,"Uncategorized",FALSE,FALSE,0
+"1000564013171293","pplteambeachbca",0.79,0.01,9.75,"Uncategorized",FALSE,FALSE,0
+"1000564013171293","comenitypaysbwebpymt",12.71,NA,1.9,"Credit Card Payments",TRUE,FALSE,0
+"1000564013171293","glossybonewyorkny",4.36,0.09,0,"Uncategorized",FALSE,FALSE,1
+"1000564013171293","thewodbocomoh",4.21,0.09,0,"Online Services",TRUE,FALSE,1
+"1000564013171293","newyorklifeifl",4.29,0.04,0,"Insurance",FALSE,FALSE,1
+"1000564013171293","sparkysmarionsc",1,NA,14.98,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013171293","centurylinkspeedpay",4.5,0.09,16.68,"Cable/Satellite Services",FALSE,FALSE,0
+"1000564013171293","dfasinindinafpayj",2.2,0.06,0.05,"Deposits",FALSE,FALSE,1
+"1000564013171293","interestpaidgt",2.57,NA,0,"Interest",FALSE,FALSE,0
+"1000564013171293","whitemanafbbawhitemanafbmo",2.33,2.5,2.18,"Uncategorized",FALSE,FALSE,0
+"1000564013171293","whitemanclubwhitemanafbmo",3.48,16.05,2.54,"Hobbies",TRUE,FALSE,0
+"1000564013171293","usaapcautopay",4.36,0.01,0,"Insurance",FALSE,FALSE,1
+"1000564013171293","luigiswarrensburgmo",3.19,7.05,5.37,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013171293","",0,0,140.54,"Deposits",FALSE,FALSE,0
+"1000564013171293","usaacompaymntcreditcrd",4.29,0.16,3.11,"Credit Card Payments",TRUE,FALSE,0
+"1000564013171293","paymentforamzstorecard",5.14,1.02,0,"Entertainment",TRUE,FALSE,0
+"1000564013171293","papajohnsmo",1,NA,2.08,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013171293","missouriamericapayment",4.71,0.04,0.35,"Credit Card Payments",TRUE,FALSE,0
+"1000564013171293","ipsysubscrica",3.86,0.63,0,"Uncategorized",FALSE,FALSE,1
+"1000564013171293","warrensburgrviefunds",7.14,NA,0,"Uncategorized",FALSE,FALSE,0
+"1000564013171293","whitemanmainswhitemanafbmo",6,NA,30.21,"Uncategorized",FALSE,FALSE,0
+"1000564013171293","tpibillingutilities",3.86,NA,0.96,"Utilities",FALSE,FALSE,0
+"1000564013171293","check",1.32,1.15,23.64,"Checks",FALSE,FALSE,0
+"1000564013171293","breaktimewarrensburgmo",2.93,9.81,0.02,"Online Services",TRUE,FALSE,0
+"1000564013171293","chaseepaymobil",4.86,NA,0,"Credit Card Payments",TRUE,FALSE,0
+"1000564013171293","kcplgautopayeftg",4.14,NA,135.82,"Credit Card Payments",TRUE,FALSE,0
+"1000564013171293","loweswarrensburgmo",1.86,NA,0.79,"Home Improvement",TRUE,FALSE,0
+"1000564013171293","westgateresortfl",4.71,NA,0,"Travel",TRUE,FALSE,0
+"1000564013171293","bilocountrymwarrensburgmo",1.19,1.07,29.24,"Groceries",TRUE,FALSE,0
+"1000564013171293","solarprotintwarrensburgmo",0.57,NA,0,"Uncategorized",FALSE,FALSE,0
+"1000564013171293","roundaboutcafwarrensburgmo",0.57,NA,27.73,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013171293","cinetopiaprairoverlandparkks",0,0,9.75,"Entertainment",TRUE,FALSE,0
+"1000564013171293","vanderbergbwhitemanafbmo",0.29,NA,0,"Uncategorized",FALSE,FALSE,0
+"1000564013171293","comenitypayilwebpymt",0,NA,0,"Credit Card Payments",TRUE,FALSE,0
+"1000564013502219","costcowhselanhammd",5.86,19.76,16.53,"General Merchandise",TRUE,FALSE,0
+"1000564013502219","pierimportsonlinepmtpos",4.36,0.26,3.12,"Home Improvement",TRUE,FALSE,0
+"1000564013502219","giantfoodincbowiemd",0.71,NA,0.84,"Groceries",TRUE,FALSE,0
+"1000564013502219","verizonwirelessonlinepmtpos",4.33,0.05,0.02,"Telephone Services",FALSE,FALSE,1
+"1000564013502219","geicopremcolloee",4.33,0.01,0.39,"Insurance",FALSE,FALSE,1
+"1000564013502219","verizononlinepmtpos",5.29,5.88,0.58,"Telephone Services",FALSE,FALSE,0
+"1000564013502219","costcogaslanhammd",5,10.45,1.77,"Gasoline/Fuel",TRUE,FALSE,0
+"1000564013502219","giantbowiemd",1.26,2.03,7.09,"Groceries",TRUE,FALSE,0
+"1000564013502219","walmartbowiemd",3.19,5.72,32.77,"General Merchandise",TRUE,FALSE,0
+"1000564013502219","jcpenneycconlinepmtpos",4.29,1.02,10,"Clothing/Shoes",TRUE,FALSE,0
+"1000564013502219","hondaonlinepmtpos",4.07,0.26,1.8,"Automotive Expenses",FALSE,FALSE,0
+"1000564013502219","walmartwalmartstobowiemd",1,0.37,53.49,"General Merchandise",TRUE,FALSE,0
+"1000564013502219","thetempleofhdullesva",5.43,41.8,7.5,"Uncategorized",FALSE,FALSE,0
+"1000564013502219","bltmoregaseleconlinepmtpos",4.29,0.08,14.02,"Utilities",FALSE,FALSE,0
+"1000564013502219","bjwholesballpbowiemd",1.81,4.26,68.05,"Groceries",TRUE,FALSE,0
+"1000564013502219","sqthesweetlwashingtondc",1.43,NA,0.52,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013502219","ashleystewartonlinepmtpos",4.14,0.02,8.33,"Clothing/Shoes",TRUE,FALSE,0
+"1000564013502219","bankofamericaonlinepmtpos",4.05,0.7,0,"Transfers",FALSE,FALSE,0
+"1000564013502219","chasecardservonlinepmtpos",4.05,0.7,0,"Credit Card Payments",TRUE,FALSE,0
+"1000564013502219","familychrbowiemd",8,NA,0.65,"Gifts",TRUE,FALSE,0
+"1000564013502219","highbridgebpbowiemd",2.62,0.29,5.85,"Uncategorized",FALSE,FALSE,0
+"1000564013502219","ltnailsincbowiemd",2.62,0.95,8.03,"Personal Care",TRUE,FALSE,0
+"1000564013502219","usaacompaymntcreditcrd",4.05,0.7,11.11,"Credit Card Payments",TRUE,FALSE,0
+"1000564013502219","check",0.6,0.37,183.64,"Checks",FALSE,FALSE,0
+"1000564013502219","chickfilabowiemd",1.49,0.83,1.77,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013502219","walterrebldgsilverspringmd",1.1,0.76,47.47,"Uncategorized",FALSE,FALSE,0
+"1000564013502219","ecaliburrdbowiemd",4,NA,108,"Uncategorized",FALSE,FALSE,0
+"1000564013502219","walterreedcafbethesdamd",0.7,1.07,1.2,"Healthcare/Medical",TRUE,FALSE,0
+"1000564013502219","ichibansushiabowiemd",4.29,NA,14.21,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013502219","bldgwiscavebethesdamd",10,NA,0,"Uncategorized",FALSE,FALSE,0
+"1000564013502219","homeserviceclny",4.29,NA,0,"Cable/Satellite Services",FALSE,FALSE,1
+"1000564013502219","williamiiicafbethesdamd",1.14,2.01,1.61,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013502219","usaacompaymntpc",3.36,5.4,2.81,"Insurance",FALSE,FALSE,0
+"1000564013502219","stonybrookdrbowiemd",3,NA,0,"Uncategorized",FALSE,FALSE,0
+"1000564013502219","newhilltopclbowiemd",1.29,0.37,5.17,"Uncategorized",FALSE,FALSE,0
+"1000564013502219","kbqbbqlanhammd",1.89,6.19,7.92,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013502219","chesapeakegrilbowiemd",3.52,4.13,6.39,"Gasoline/Fuel",TRUE,FALSE,0
+"1000564013502219","washingtongasonlinepmtpos",6.57,NA,0,"Utilities",FALSE,FALSE,0
+"1000564013502219","atmsurchargerebatesr",4.29,0.04,0.3,"ATM/Cash Withdrawals",TRUE,FALSE,0
+"1000564013502219","interestpaidgt",2.03,0.16,0.09,"Interest",FALSE,FALSE,0
+"1000564013502219","usaafundstransferdb",1.93,0.01,174.45,"Transfers",FALSE,FALSE,0
+"1000564013502219","usaafundstransfercr",1.93,0.01,174.45,"Transfers",FALSE,FALSE,0
+"1000564013502219","dfasclevelandfedsalary",0.92,1.08,579.64,"Paychecks/Salary",FALSE,FALSE,1
+"1000564013502219","limaschickenbowiemd",2.14,1.35,4.15,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013502219","synchronybankonlinepmtpos",4.5,0.5,0,"Credit Card Payments",TRUE,FALSE,1
+"1000564013502219","acsonlinepmtpos",4.36,0.26,0,"Credit Card Payments",TRUE,FALSE,1
+"1000564013502219","tawithheldgt",2.11,0.17,0.01,"Taxes",FALSE,FALSE,0
+"1000564013502219","wisconsinavebldbethesdamd",1.45,0.39,7.92,"Uncategorized",FALSE,FALSE,0
+"1000564013502219","crackerbindiansterlingva",0.14,NA,0.96,"Uncategorized",FALSE,FALSE,0
+"1000564013502219","chasehomefinancelnpmt",4.43,NA,0,"Loans",FALSE,FALSE,1
+"1000564013502219","panerabreadbowiemd",0,0,6.52,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013502219","cartersincga",0.43,NA,20.89,"Child/Dependent Expenses",FALSE,FALSE,0
+"1000564013502219","bjsfuelballpbowiemd",4.14,NA,0,"Gasoline/Fuel",TRUE,FALSE,0
+"1000564013502219","walmartstorebowiemd",1,NA,8.99,"General Merchandise",TRUE,FALSE,0
+"1000564013502219","beautymartlanhammd",1.57,NA,8,"Personal Care",TRUE,FALSE,0
+"1000564013502219","ripsrestauranmitchellvillemd",1.71,NA,0.01,"Restaurants/Dining",TRUE,FALSE,0
+"1000564013502219","mcdonaldsmbowiemd",10.14,NA,0.68,"Restaurants/Dining",TRUE,FALSE,0
+"1000564014242573","cornerstoresantacruzca",1.21,2.95,23.09,"Groceries",TRUE,FALSE,0
+"1000564014242573","costcowhsesantacruzca",1.05,0.87,107.62,"General Merchandise",TRUE,FALSE,0
+"1000564014242573","safewaystoresantacruzca",0.49,0.2,24.14,"Groceries",TRUE,FALSE,0
+"1000564014242573","tacobellsantacruzca",1.48,1.42,0.88,"Restaurants/Dining",TRUE,FALSE,0
+"1000564014242573","traderjoessantacruzca",0.43,NA,14.78,"Groceries",TRUE,FALSE,0
+"1000564014242573","petsmartincsantacruzca",3.24,5.03,31.27,"Pets/Pet Care",TRUE,FALSE,0
+"1000564014242573","mcdonaldsfsantacruzca",2.86,2,1.37,"Restaurants/Dining",TRUE,FALSE,0
+"1000564014242573","netflicomnetflicomca",4.29,0.04,0,"Entertainment",TRUE,TRUE,0
+"1000564014242573","costpluswldsantacruzca",6.71,NA,0.6,"Home Improvement",TRUE,FALSE,0
+"1000564014242573","googlegooglegooglecomchca",0.71,0.8,0.25,"Online Services",TRUE,FALSE,0
+"1000564014242573","hluhuluhulucombillca",4.36,0.01,0,"Entertainment",TRUE,TRUE,1
+"1000564014242573","costcogassantacruzca",1.8,0.64,4.25,"Gasoline/Fuel",TRUE,FALSE,0
+"1000564014242573","pandaepresssantacruzca",3.86,NA,0.51,"Restaurants/Dining",TRUE,FALSE,0
+"1000564014242573","targettcapitolaca",2.21,7.44,132.97,"General Merchandise",TRUE,FALSE,0
+"1000564014242573","gilroygardensgilroyca",4.93,48.58,1.16,"Entertainment",TRUE,FALSE,0
+"1000564014242573","seabrightbrewesantacruzca",3.36,3.68,0.48,"Uncategorized",FALSE,FALSE,0
+"1000564014242573","check",0.61,0.52,5384.17,"Checks",FALSE,FALSE,0
+"1000564014242573","aesstdntloanpa",4.33,0.01,0,"Loans",FALSE,FALSE,1
+"1000564014242573","ameripaksantacruzca",3,NA,40.75,"Uncategorized",FALSE,FALSE,0
+"1000564014242573","",4.05,3.31,234.27,"Deposits",FALSE,FALSE,0
+"1000564014242573","emilysgoodthsantacruzca",1.86,NA,4.67,"Uncategorized",FALSE,FALSE,0
+"1000564014242573","hulasislandgsantacruzca",4.29,NA,0.19,"Uncategorized",FALSE,FALSE,0
+"1000564014242573","laspalmastacosantacruzca",2.71,NA,0.26,"Restaurants/Dining",TRUE,FALSE,0
+"1000564014242573","pbdiielinesantacruzca",1,1,3.97,"Uncategorized",FALSE,FALSE,0
+"1000564014242573","interestpaidgt",2.06,0.05,0.93,"Interest",FALSE,FALSE,0
+"1000564014242573","newleafdowntosantacruzca",1,NA,26.66,"Uncategorized",FALSE,FALSE,0
+"1000564014242573","officemariverstsantacruzca",0.07,0.01,5.12,"Office Maintenance",FALSE,FALSE,0
+"1000564014242573","usaapcautopay",4.21,0.09,0,"Insurance",FALSE,FALSE,1
+"1000564014242573","sanlorenzosantacruzca",0.79,0.09,10.01,"Uncategorized",FALSE,FALSE,0
+"1000564014242573","restaurantelossantacruzca",1,NA,10.27,"Restaurants/Dining",TRUE,FALSE,0
+"1000564014242573","greatlakesstudentln",4.21,0.09,0,"Loans",FALSE,FALSE,1
+"1000564014242573","usaacompaymntlife",2.11,0.59,0.04,"Insurance",FALSE,FALSE,0
+"1000564014242573","becksshoescapitolaca",1.57,NA,6.75,"Clothing/Shoes",TRUE,FALSE,0
+"1000564014242573","atmsurchargerebatesr",4.14,0.16,1.25,"ATM/Cash Withdrawals",TRUE,FALSE,0
+"1000564014242573","wetzelspretzecapitolaca",0,NA,0,"Uncategorized",FALSE,FALSE,0
+"1000564014242573","wirein",1.48,4.17,2837.45,"Other Income",FALSE,FALSE,0
+"1000564014242573","bcofcaunderonlinepmtpos",4.36,0.01,0,"Credit Card Payments",TRUE,FALSE,1
+"1000564014242573","bookshopsantasantacruzca",4.14,NA,0.15,"Hobbies",TRUE,FALSE,0
+"1000564014242573","pgandewebonline",4.14,NA,30.52,"Utilities",FALSE,FALSE,0
+"1000564014242573","hernandezmarkesantacruzca",2,4.08,4.44,"Uncategorized",FALSE,FALSE,0
+"1000564014242573","adventuresportsantacruzca",2,8,0,"Entertainment",TRUE,FALSE,0
+"1000564014242573","comcastcaliforcomcastca",4,NA,39.15,"Cable/Satellite Services",FALSE,FALSE,0
+"1000564014242573","woodwormpartycapitolaca",0,NA,63.55,"Entertainment",TRUE,FALSE,0
+"1000564014242573","cardtronicsccssantacruzca",1,NA,0,"ATM/Cash Withdrawals",TRUE,FALSE,0
+"1000564014242573","walnutavenuecsantacruzca",8.57,NA,1.2,"Uncategorized",FALSE,FALSE,0
+"1000564014242573","boardwalkbowlsantacruzca",1,2,1.4,"Entertainment",TRUE,FALSE,0
+"1000564014242573","targetcommn",0,NA,117.67,"General Merchandise",TRUE,FALSE,0
+"1000564014242573","cityofnewarknewarkca",0,NA,21.22,"Uncategorized",FALSE,FALSE,0
+"1000564014242573","coldstonefremontca",0,NA,12.55,"Restaurants/Dining",TRUE,FALSE,0
+"1000616412894541","debitcardpurchasesuffolkaveamocoqpsbrentwoodny",5.43,41.8,2.06,"Gasoline/Fuel",TRUE,FALSE,0
+"1000616412894541","achelectronicdebitgeicopremcoll",4.33,0.05,0.04,"Insurance",FALSE,FALSE,1
+"1000616412894541","paymentdirectvda",4.93,0.01,0,"Cable/Satellite Services",FALSE,FALSE,1
+"1000616412894541","debitcardpurchasewalmartcommackny",4.86,NA,23.85,"General Merchandise",TRUE,FALSE,0
+"1000616412894541","check",3.25,2.54,178.27,"Checks",FALSE,FALSE,0
+"1000616412894541","cashwithdrawaloncitibankatmsuffolkavbrentwoodny",2.46,6.39,28.57,"ATM/Cash Withdrawals",TRUE,FALSE,0
+"1000616412894541","deposit",6,NA,4106.59,"Deposits",FALSE,FALSE,0
+"1000616412894541","achelectroniccreditjdbrushcompdirectdep",1.18,0.16,8.37,"Other Income",FALSE,FALSE,0
+"1000616412894541","achelectronicdebitnatlmotorclubduespayt",4.29,0.14,0,"Transfers",FALSE,FALSE,1
+"1000616412894541","otherwithdrawal",0.57,NA,55.56,"ATM/Cash Withdrawals",TRUE,FALSE,0
+"1000616412894541","debitcardpurchasecomparefoodsbayshoreny",2.19,1.86,15.39,"Groceries",TRUE,FALSE,0
+"1000616412894541","cashwithdrawalcitibankatmsuffolkavbrentwoodny",3.43,7.73,95.56,"ATM/Cash Withdrawals",TRUE,FALSE,0
+"1000616412894541","debitcardpurchaseelpaisitobakerybrentwoodny",2.31,1.58,2.35,"Groceries",TRUE,FALSE,0
+"1000616412894541","achelectronicdebitnatbenlifecoinsprem",4.5,0.09,0,"Transfers",FALSE,FALSE,1
+"1000616412894541","interestfordaysaveragedailybalance",4.36,0.26,0,"Interest",FALSE,FALSE,0
+"1000616412894541","debitcardpurchasesaborlatinobakerybayshoreny",2.86,NA,2.71,"Other Expenses",TRUE,FALSE,0
